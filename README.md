@@ -1,1 +1,1 @@
-# infinite-runner
+# pro-38-infinite-game
